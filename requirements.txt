@@ -1,0 +1,6 @@
+flask
+flask-cors
+hmmlearn
+numpy
+requests
+yfinance
